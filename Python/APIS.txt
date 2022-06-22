@@ -1,0 +1,7 @@
+http://127.0.0.1:5000/api/v1/COVID19/vaccinations?country=Pakistan
+
+http://127.0.0.1:5000/api/v1/COVID19/vaccinations/all
+
+http://127.0.0.1:5000/api/v1/COVID19/vaccinations?continent=Asia
+
+http://127.0.0.1:5000/api/v1/COVID19/vaccinations?iso_code=HRV
