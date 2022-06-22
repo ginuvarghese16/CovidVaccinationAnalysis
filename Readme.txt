@@ -1,3 +1,5 @@
+This project analyses the COVID-19 vaccination progress in different countries using statistical analysis methods and visualization.
+
 The dataset contains the details of the COVID-19 vaccination of 61 countries from 2020-2021.The data was
 collected from the Kaggle. There were 13 variables in the original dataset and 5750 observations. The data has the
 vaccination count and also the rate of vaccination per population of the country. As a part of cleaning and for analysis
